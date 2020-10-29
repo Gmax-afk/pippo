@@ -1,0 +1,12 @@
+[
+ {
+    "link" : "https://www.imergo.it/interactive/ar/divano/divano.zip",
+    "name" : "Divano",
+    "price" : "200"
+  },
+  {
+    "link" : "https://www.imergo.it/interactive/ar/divano/tavolo.zip",
+    "name" : "Tavolo",
+    "price" : "150"
+  }
+]
